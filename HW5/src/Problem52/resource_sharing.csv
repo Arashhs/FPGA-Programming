@@ -1,0 +1,8 @@
+operation,A + B,C + D,E + F,G + H,I + J,K + L,M + N
+A + B,--,No,No,No,No,No,No
+C + D,No,--,Yes,Yes,Yes,Yes,No
+E + F,No,Yes,--,No,No,No,Yes
+G + H,No,Yes,No,--,Yes,No,Yes
+I + J,No,Yes,No,Yes,--,No,Yes
+K + L,No,Yes,No,No,No,--,Yes
+M + N,No,No,Yes,Yes,Yes,Yes,--
